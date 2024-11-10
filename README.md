@@ -6,4 +6,5 @@
 5. [https://github.com/2303A51835/23CSBTB27-28/blob/main/assignment4.ipynb]
 6. [https://colab.research.google.com/gist/2303A51835/f49eb4a26090add4467f2b40808d140f/assignment5.ipynb]
 7. [https://github.com/2303A51835/23CSBTB27-28/blob/main/assignment6.ipynb]
-8. 
+8. [https://github.com/2303A51835/23CSBTB27-28/blob/main/assignment7.ipynb]
+9. 
