@@ -8,4 +8,4 @@
 7. [https://github.com/2303A51835/23CSBTB27-28/blob/main/assignment6.ipynb]
 8. [https://github.com/2303A51835/23CSBTB27-28/blob/main/assignment7.ipynb]
 9. [https://github.com/2303A51835/23CSBTB27-28/blob/main/assignement_8.ipynb]
-10. 
+10. [https://github.com/2303A51835/23CSBTB27-28/blob/main/labexam.ipynb]
